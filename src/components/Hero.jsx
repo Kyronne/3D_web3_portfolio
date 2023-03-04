@@ -22,7 +22,7 @@ const Hero = () => {
                  text-white-100`}>
                   Developer of bleeding edge Web3 websites, Web3 <br 
                   className='sm:block hidden'/> 
-                  dapps crypto & web applications.
+                  dapps, cryptocurrencies & web applications.
                  </p>
             </div>
         </div>
