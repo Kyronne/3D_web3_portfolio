@@ -29,7 +29,7 @@ const Navbar = () => {
           <p className="text-white text-[18px] font-bold 
           cursor-pointer flex">
           AgentOfDefi &nbsp;
-          <span className='sm:block hidden'>| Web3 Portfolio</span></p>
+          <span className='sm:block hidden'>| Portfolio</span></p>
           </Link>
           <ul className='list-none hidden sm:flex flex-row gap-10'>
               {navLinks.map((nav) => (
