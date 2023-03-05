@@ -52,8 +52,8 @@ const About = () => {
       websites and crypto applications using 
       Javascript, Solidity, Next.js, 
       React, Node.js, Three.js and more.
-      I pride myself in being prompt 
-      and responsive, creating applications 
+      I pride myself in being personable and prompt 
+      and creating applications 
       and websites that standout. 
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
