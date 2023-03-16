@@ -50,7 +50,7 @@ import {
       icon: creator,
     },
     {
-      title: "Mobile Developer",
+      title: "Mobile First",
       icon: mobile,
     },
     {

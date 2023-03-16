@@ -5,7 +5,7 @@ import { ComputersCanvas } from './canvas';
 const Hero = () => {
   return (
     <section className="relative w-full
-    h-screen mx-auto">
+    h-screen mx-auto ">
       <div className={`${styles.paddingX} absolute 
       inset-0 top-[120px] max-w-7xl flex 
       flex-row mx-auto items-start gap-5`}>
@@ -13,10 +13,10 @@ const Hero = () => {
           <div className='w-5 h-5 rounded-full bg-[#915eff]'/>
             <div className='w-1 sm:h-80 h-40 violet-gradient'/>
             </div>
-            <div>
+            <div className='z-40'>
               <h1 className={`${styles.heroHeadText} text-white`}>
                 Web3 is the <span 
-                className='text-[#915eff] underline underline-offset-2'>Future
+                className='text-[#915eff] underline underline-offset-2 z-40'>Future
                 </span></h1>
                 <p className={`{styles.heroSubText} mt-2
                  text-white-100`}>
@@ -24,9 +24,12 @@ const Hero = () => {
                   className='sm:block hidden'/> 
                   dapps, cryptocurrencies & web applications.
                  </p>
+                 
             </div>
+            
         </div>
         <ComputersCanvas />
+        
         <div className='absolute xs:bottom-1 bottom-10 w-full 
         flex justify-center items-center'>
           <a href="#about">
