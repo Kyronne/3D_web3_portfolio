@@ -8,7 +8,7 @@ const Computers = ( { isMobile }) => {
   const computer = useGLTF("./ethereum/scene.gltf");
 
   return (
-    <mesh>
+    <mesh >
       <hemisphereLight intensity={0.15} 
       groundColor='black' />
       <pointLight intensity={1} />
@@ -22,9 +22,9 @@ const Computers = ( { isMobile }) => {
       />
       <primitive 
       object={computer.scene}
-      scale={isMobile ? 0.4 : 0.7}
+      scale={isMobile ? 0.50 : 0.7}
       position={isMobile ? [-1, -1, 0] : [-1, 0, 0]}
-      rotation={[-0.01, 0.5, 0]}
+      rotation={[-0.01, 1, 0]}
       />
     </mesh>
   );

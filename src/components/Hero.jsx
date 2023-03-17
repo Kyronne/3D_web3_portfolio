@@ -13,7 +13,7 @@ const Hero = () => {
           <div className='w-5 h-5 rounded-full bg-[#915eff]'/>
             <div className='w-1 sm:h-80 h-40 violet-gradient'/>
             </div>
-            <div className='z-40'>
+            <div className='z-30'>
               <h1 className={`${styles.heroHeadText} text-white`}>
                 Web3 is the <span 
                 className='text-[#915eff] underline underline-offset-2 z-40'>Future
