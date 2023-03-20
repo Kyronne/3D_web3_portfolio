@@ -163,7 +163,7 @@ import {
     {
       name: "Staking Dapp",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to stake a crypto token in order to earn passive income. Uses a modern and accessible interface for ease of use",
       tags: [
         {
           name: "react",
