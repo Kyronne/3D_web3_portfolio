@@ -184,7 +184,7 @@ import {
     {
       name: "AI Utility",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An AI chat allowing a user to ask a question to any famous person or famous fictional character of their choosing.",
       tags: [
         {
           name: "nextjs",
