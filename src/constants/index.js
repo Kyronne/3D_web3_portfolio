@@ -142,14 +142,14 @@ import {
     {
       name: "Project WebPage",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Modern & responsive webpage, showcasing a projects tokenomics, socials & community. Offers an overview of the project  roadmap. Loads instantly using server side tech.",
       tags: [
         {
-          name: "react",
+          name: "Next-js",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Javascript",
           color: "green-text-gradient",
         },
         {
@@ -170,11 +170,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "etherjs",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
@@ -191,7 +191,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "openai-api",
           color: "green-text-gradient",
         },
         {
